@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<root>
+    <artist lastname="John" firstname="Coltrane">Saxophone</artist>
+    <artist lastname="Miles" firstname="Davis">Trumpet</artist>
+    <artist lastname="Blood" firstname="Hound">Piano</artist>
+</root>
